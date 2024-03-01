@@ -28,51 +28,51 @@ const router = createRouter({
   history: routerHistory,
   routes: [
     {
-      path: '/',
+      path: '/outsideapp/',
       component: Home
     },
     {
-      path: '/tutorials',
+      path: '/outsideapp/tutorials',
       component: Tutorials
     },
     {
-      path: '/pricing',
+      path: '/outsideapp/pricing',
       component: Pricing
     },
     {
-      path: '/blog',
+      path: '/outsideapp/blog',
       component: Blog
     },
     {
-      path: '/portfolio',
+      path: '/outsideapp/portfolio',
       component: Portfolio
     },
     {
-      path: '/blog-post',
+      path: '/outsideapp/blog-post',
       component: BlogPost
     },
     {
-      path: '/about',
+      path: '/outsideapp/about',
       component: About
     },
     {
-      path: '/documentation',
+      path: '/outsideapp/documentation',
       component: Documentation
     },
     {
-      path: '/support',
+      path: '/outsideapp/support',
       component: Support
     },
     {
-      path: '/signin',
+      path: '/outsideapp/signin',
       component: SignIn
     },
     {
-      path: '/signup',
+      path: '/outsideapp/signup',
       component: SignUp
     },
     {
-      path: '/reset-password',
+      path: '/outsideapp/reset-password',
       component: ResetPassword
     },
     {
