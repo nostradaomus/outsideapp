@@ -76,7 +76,7 @@ const router = createRouter({
       component: ResetPassword
     },
     {
-      path: '/:pathMatch(.*)*',
+      path: '/outsideapp/:pathMatch(.*)*',
       component: PageNotFound
     }
   ]
