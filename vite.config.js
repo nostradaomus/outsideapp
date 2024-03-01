@@ -3,9 +3,10 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: "/outsideapp/",
   define: {
     'process.env': process.env
-  },    
+  },
   plugins: [vue()],
   resolve: {
     alias: [
