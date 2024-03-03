@@ -1,10 +1,7 @@
 <template>
-  <section class="relative">
-
-
-    <div class="relative max-w-6xl mx-auto px-4 sm:px-6">
-      <div class="py-12 md:py-20">
-
+  <section class="flex items-center justify-center md:min-h-[90vh] py-12">
+    <div class="h-full max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="h-full flex flex-col items-center justify-center">
         <!-- Section header -->
         <div class="max-w-3xl mx-auto text-center pb-12 md:pb-20">
           <h2 class="h2 mb-4">We're building the financial system this world deserves.</h2>
@@ -27,7 +24,7 @@
                   “ If I were a founder again, Ethan is exactly what I would look for in a seed investor. Empathetic, energetic, hardworking, and driven. I'm excited to co-invest with him and think any founder would be lucky to have him on the cap table. “
                 </blockquote>
                 <div class="text-sm font-medium text-gray-800 mt-2">
-                  <cite class="text-gray-900 not-italic">Sheel Mohnot</cite> · <a class="text-blue-600" href="https://www.btv.vc/">Founding Partner, Better Tomorrow Ventures</a>
+                  <cite class="text-gray-900 not-italic">Sheel Mohnot</cite> · <a class="text-[#4BBCF1]" href="https://www.btv.vc/">Founding Partner, Better Tomorrow Ventures</a>
                 </div>
               </div>
             </div>

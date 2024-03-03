@@ -28,55 +28,55 @@ const router = createRouter({
   history: routerHistory,
   routes: [
     {
-      path: '/outsideapp/',
+      path: '/',
       component: Home
     },
     {
-      path: '/outsideapp/tutorials',
+      path: '/tutorials',
       component: Tutorials
     },
     {
-      path: '/outsideapp/pricing',
+      path: '/pricing',
       component: Pricing
     },
     {
-      path: '/outsideapp/blog',
+      path: '/blog',
       component: Blog
     },
     {
-      path: '/outsideapp/portfolio',
+      path: '/portfolio',
       component: Portfolio
     },
     {
-      path: '/outsideapp/blog-post',
+      path: '/blog-post',
       component: BlogPost
     },
     {
-      path: '/outsideapp/about',
+      path: '/about',
       component: About
     },
     {
-      path: '/outsideapp/documentation',
+      path: '/documentation',
       component: Documentation
     },
     {
-      path: '/outsideapp/support',
+      path: '/support',
       component: Support
     },
     {
-      path: '/outsideapp/signin',
+      path: '/signin',
       component: SignIn
     },
     {
-      path: '/outsideapp/signup',
+      path: '/signup',
       component: SignUp
     },
     {
-      path: '/outsideapp/reset-password',
+      path: '/reset-password',
       component: ResetPassword
     },
     {
-      path: '/outsideapp/:pathMatch(.*)*',
+      path: '/:pathMatch(.*)*',
       component: PageNotFound
     }
   ]
