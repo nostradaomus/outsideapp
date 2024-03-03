@@ -1,9 +1,9 @@
 <template>
-  <section class="bg-gray-800 h-screen">
+  <section class="relative bg-gray-800 h-screen">
+    <img class="absolute left-[60%] md:left-[43%] top-[17%] md:top-[18%] transform scale-x-[-1] w-[125px]" src="../images/curved-chalk-arrow.png" alt="chalk arrow" />
     <!-- Section background (needs .relative class on parent and next sibling elements) -->
     <div class="h-full flex items-center justify-center max-w-6xl mx-auto px-4 sm:px-6">
       <div class="">
-
         <!-- Section header -->
         <div class="max-w-3xl mx-auto">
           <h1 class="h1 mb-4 text-white" data-aos="zoom-y-out">OUT&#183;SID&#183;ER</h1>
