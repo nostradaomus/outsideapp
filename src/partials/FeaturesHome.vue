@@ -1,6 +1,6 @@
 <template>
   <section class="relative bg-gray-800 h-screen">
-    <img class="absolute left-[57%] top-[17%] md:left-[42.5%] md:top-[18%] transform scale-x-[-1] w-[125px]" src="../images/curved-chalk-arrow.png" alt="chalk arrow" />
+    <img class="absolute left-[57%] top-[17%] md:left-[42.5%] md:top-[21%] transform scale-x-[-1] w-[125px]" src="../images/curved-chalk-arrow.png" alt="chalk arrow" />
     <!-- Section background (needs .relative class on parent and next sibling elements) -->
     <div class="h-full flex items-center justify-center max-w-6xl mx-auto px-4 sm:px-6">
       <div class="">
