@@ -1,5 +1,8 @@
 <template>
   <section class="relative flex items-center justify-center bg-gray-800 min-h-[90vh]">
+    <img class="absolute left-[2%] top-[1%] md:left-[3%] md:top-[5%] w-[75px] md:w-[150px]" src="../images/ninety-angle-arrow.png" alt="chalk arrow" />
+    <img class="absolute right-[2%] bottom-[1%] md:right-[3%] md:bottom-[5%] transform scale-x-[-1] scale-y-[-1] w-[75px] md:w-[150px]" src="../images/ninety-angle-arrow.png" alt="chalk arrow" />
+
 
     <div class="relative max-w-6xl mx-auto px-4 sm:px-6">
       <div class="py-12 md:py-20">

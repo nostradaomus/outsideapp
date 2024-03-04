@@ -1,10 +1,12 @@
 <template>
-  <section class="flex items-center justify-center md:min-h-[90vh] py-12">
+  <section class="flex mb-6 items-center justify-center md:min-h-[90vh] py-12">
     <div class="h-full max-w-6xl mx-auto px-4 sm:px-6">
       <div class="h-full flex flex-col items-center justify-center">
+        <img class="m-6 w-[75px]" src="../images/scale.png" alt="chalk arrow" />
+
         <!-- Section header -->
         <div class="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-          <h2 class="h2 mb-4">We're building the financial system this world deserves.</h2>
+          <h2 class="h2 mb-4">We're building a financial system this world deserves.</h2>
           <p class="text-xl text-gray-800">The big opportunity within fintech is not serving the top 10% that every fintech already caters to. It’s in creating economic opportunity for everyone else.</p>
         </div>
 

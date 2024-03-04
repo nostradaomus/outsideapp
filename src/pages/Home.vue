@@ -13,7 +13,6 @@
       <FeaturesBlocks />
       <InsideTrack />
       <FeaturesWorld />
-      <News />
       <Cta />
 
     </main>
