@@ -25,7 +25,7 @@
           <!-- 2nd member -->
           <div class="sm:w-1/2 md:w-1/5 py-6 sm:py-8 sm:px-3" data-aos="zoom-y-out" data-aos-delay="150" data-aos-anchor="[data-aos-id-team]">
             <div class="flex flex-col items-center">
-              <div class="h-[118px] w-[118px] mb-4 bg-gray-800 rounded-full overflow-hidden">
+              <div class="h-[118px] w-[118px] mb-4 bg-gray-800 rounded-lg overflow-hidden">
                 <img class="h-full w-full object-cover" src="../images/op/kwame-boler.jpeg" alt="Team member 01" />
               </div>
               <h4 class="text-xl font-bold mb-1">Kwame Boler</h4>
@@ -47,7 +47,7 @@
           <!-- 4th member -->
           <div class="sm:w-1/2 md:w-1/5 py-6 sm:py-8 sm:px-3" data-aos="zoom-y-out" data-aos-delay="450" data-aos-anchor="[data-aos-id-team]">
             <div class="flex flex-col items-center">
-              <div class="h-[118px] w-[118px] mb-4 bg-gray-800 rounded-full overflow-hidden">
+              <div class="h-[118px] w-[118px] mb-4 bg-gray-800 rounded-lg overflow-hidden">
                 <img class="h-full w-full object-cover" src="../images/op/craig-lewis.jpeg" alt="Team member 01" />
               </div>
               <h4 class="text-xl font-bold mb-1">Craig J. Lewis</h4>
@@ -69,7 +69,7 @@
           <!-- 6th member -->
           <div class="sm:w-1/2 md:w-1/5 py-6 sm:py-8 sm:px-3" data-aos="zoom-y-out" data-aos-delay="750" data-aos-anchor="[data-aos-id-team]">
             <div class="flex flex-col items-center">
-              <div class="h-[118px] w-[118px] mb-4 bg-gray-800 rounded-full overflow-hidden">
+              <div class="h-[118px] w-[118px] mb-4 bg-gray-800 rounded-lg overflow-hidden">
                 <img class="h-full w-full object-cover" src="../images/op/patrick-lu.jpeg" alt="Team member 01" />
               </div>
               <h4 class="text-xl font-bold mb-1">Patrick Lu</h4>
@@ -91,7 +91,7 @@
           <!-- 8th member -->
           <div class="sm:w-1/2 md:w-1/5 py-6 sm:py-8 sm:px-3" data-aos="zoom-y-out" data-aos-delay="1050" data-aos-anchor="[data-aos-id-team]">
             <div class="flex flex-col items-center">
-              <div class="h-[118px] w-[118px] mb-4 bg-gray-800 rounded-full overflow-hidden">
+              <div class="h-[118px] w-[118px] mb-4 bg-gray-800 rounded-lg overflow-hidden">
                 <img class="h-full w-full object-cover" src="../images/op/kim-stiefel.jpeg" alt="Team member 01" />
               </div>
               <h4 class="text-xl font-bold mb-1">Kim Stiefel</h4>
@@ -111,7 +111,7 @@
           </div>
           <div class="sm:w-1/2 md:w-1/5 py-6 sm:py-8 sm:px-3" data-aos="zoom-y-out" data-aos-delay="1200" data-aos-anchor="[data-aos-id-team]">
             <div class="flex flex-col items-center">
-              <div class="h-[118px] w-[118px] mb-4 bg-gray-800 rounded-full overflow-hidden">
+              <div class="h-[118px] w-[118px] mb-4 bg-gray-800 rounded-lg overflow-hidden">
                 <img class="h-full w-full object-cover" src="../images/op/alex-benzer.jpeg" alt="Team member 01" />
               </div>
               <h4 class="text-xl font-bold mb-1">Alex Benzer</h4>
@@ -129,7 +129,7 @@
           </div>
           <div class="sm:w-1/2 md:w-1/5 py-6 sm:py-8 sm:px-3" data-aos="zoom-y-out" data-aos-delay="1200" data-aos-anchor="[data-aos-id-team]">
             <div class="flex flex-col items-center">
-              <div class="h-[118px] w-[118px] mb-4 bg-gray-800 rounded-full overflow-hidden">
+              <div class="h-[118px] w-[118px] mb-4 bg-gray-800 rounded-lg overflow-hidden">
                 <img class="h-full w-full object-cover" src="../images/op/asya-bradley.jpeg" alt="Team member 01" />
               </div>
               <h4 class="text-xl font-bold mb-1">Asya Bradley</h4>
@@ -147,7 +147,7 @@
           </div>
           <div class="sm:w-1/2 md:w-1/5 py-6 sm:py-8 sm:px-3" data-aos="zoom-y-out" data-aos-delay="1200" data-aos-anchor="[data-aos-id-team]">
             <div class="flex flex-col items-center">
-              <div class="h-[118px] w-[118px] mb-4 bg-gray-800 rounded-full overflow-hidden">
+              <div class="h-[118px] w-[118px] mb-4 bg-gray-800 rounded-lg overflow-hidden">
                 <img class="h-full w-full object-cover" src="../images/op/vince-leung.jpeg" alt="Team member 01" />
               </div>
               <h4 class="text-xl font-bold mb-1">Vince Leung</h4>
@@ -165,7 +165,7 @@
           </div>
           <div class="sm:w-1/2 md:w-1/5 py-6 sm:py-8 sm:px-3" data-aos="zoom-y-out" data-aos-delay="1200" data-aos-anchor="[data-aos-id-team]">
             <div class="flex flex-col items-center">
-              <div class="h-[118px] w-[118px] mb-4 bg-gray-800 rounded-full overflow-hidden">
+              <div class="h-[118px] w-[118px] mb-4 bg-gray-800 rounded-lg overflow-hidden">
                 <img class="h-full w-full object-cover" src="../images/op/mike-alfred.jpeg" alt="Team member 01" />
               </div>
               <h4 class="text-xl font-bold mb-1">Mike Alfred</h4>
@@ -183,7 +183,7 @@
           </div>
           <div class="sm:w-1/2 md:w-1/5 py-6 sm:py-8 sm:px-3" data-aos="zoom-y-out" data-aos-delay="1200" data-aos-anchor="[data-aos-id-team]">
             <div class="flex flex-col items-center">
-              <div class="h-[118px] w-[118px] mb-4 bg-gray-800 rounded-full overflow-hidden">
+              <div class="h-[118px] w-[118px] mb-4 bg-gray-800 rounded-lg overflow-hidden">
                 <img class="h-full w-full object-cover" src="../images/op/al-rey.jpeg" alt="Team member 01" />
               </div>
               <h4 class="text-xl font-bold mb-1">Al Rey</h4>
@@ -201,7 +201,7 @@
           </div>
           <div class="sm:w-1/2 md:w-1/5 py-6 sm:py-8 sm:px-3" data-aos="zoom-y-out" data-aos-delay="1200" data-aos-anchor="[data-aos-id-team]">
             <div class="flex flex-col items-center">
-              <div class="h-[118px] w-[118px] mb-4 bg-gray-800 rounded-full overflow-hidden">
+              <div class="h-[118px] w-[118px] mb-4 bg-gray-800 rounded-lg overflow-hidden">
                 <img class="h-full w-full object-cover" src="../images/op/heather-harmon.png" alt="Team member 01" />
               </div>
               <h4 class="text-xl font-bold mb-1">Heather Harmon</h4>
@@ -219,7 +219,7 @@
           </div>
           <div class="sm:w-1/2 md:w-1/5 py-6 sm:py-8 sm:px-3" data-aos="zoom-y-out" data-aos-delay="1200" data-aos-anchor="[data-aos-id-team]">
             <div class="flex flex-col items-center">
-              <div class="h-[118px] w-[118px] mb-4 bg-gray-800 rounded-full overflow-hidden">
+              <div class="h-[118px] w-[118px] mb-4 bg-gray-800 rounded-lg overflow-hidden">
                 <img class="h-full w-full object-cover" src="../images/op/rafa-barroso.jpeg" alt="Team member 01" />
               </div>
               <h4 class="text-xl font-bold mb-1">Rafa Barroso</h4>
@@ -237,7 +237,7 @@
           </div>
           <div class="sm:w-1/2 md:w-1/5 py-6 sm:py-8 sm:px-3" data-aos="zoom-y-out" data-aos-delay="1200" data-aos-anchor="[data-aos-id-team]">
             <div class="flex flex-col items-center">
-              <div class="h-[118px] w-[118px] mb-4 bg-gray-800 rounded-full overflow-hidden">
+              <div class="h-[118px] w-[118px] mb-4 bg-gray-800 rounded-lg overflow-hidden">
                 <img class="h-full w-full object-cover" src="../images/op/chris-rentner.jpeg" alt="Team member 01" />
               </div>
               <h4 class="text-xl font-bold mb-1">Chris Rentner</h4>
