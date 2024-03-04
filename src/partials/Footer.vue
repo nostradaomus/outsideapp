@@ -69,13 +69,13 @@
           <h6 class="text-gray-800 text-right font-medium mb-2">Company</h6>
           <ul class="text-sm text-right">
             <li class="mb-2">
-              <router-link to="#" class="text-gray-900 hover:text-gray-900 transition duration-150 ease-in-out">Home</router-link>
+              <router-link to="/" class="text-gray-900 hover:text-gray-900 transition duration-150 ease-in-out">Home</router-link>
             </li>
             <li class="mb-2">
-              <router-link to="#" class="text-gray-900 hover:text-gray-900 transition duration-150 ease-in-out">Our Team</router-link>
+              <router-link to="/about" class="text-gray-900 hover:text-gray-900 transition duration-150 ease-in-out">Our Team</router-link>
             </li>
             <li class="mb-2">
-              <router-link to="#" class="text-gray-900 hover:text-gray-900 transition duration-150 ease-in-out">Our Portfolio</router-link>
+              <router-link to="/portfolio" class="text-gray-900 hover:text-gray-900 transition duration-150 ease-in-out">Our Portfolio</router-link>
             </li>
           </ul>
         </div>
@@ -111,11 +111,11 @@
         <!-- Social links -->
         <ul class="flex mb-4 md:order-1 md:ml-4 md:mb-0">
           <li>
-            <router-link to="#" class="flex justify-center items-center text-gray-900 hover:text-gray-900 bg-white hover:bg-white-100 rounded-full shadow transition duration-150 ease-in-out" aria-label="Twitter">
+            <a target="_none" href="https://www.twitter.com/ethanaustin" class="flex justify-center items-center text-gray-900 hover:text-gray-900 bg-white hover:bg-white-100 rounded-full shadow transition duration-150 ease-in-out" aria-label="Twitter">
               <svg class="w-8 h-8 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
                 <path d="m13.063 9 3.495 4.475L20.601 9h2.454l-5.359 5.931L24 23h-4.938l-3.866-4.893L10.771 23H8.316l5.735-6.342L8 9h5.063Zm-.74 1.347h-1.457l8.875 11.232h1.36l-8.778-11.232Z" />
               </svg>
-            </router-link>
+            </a>
           </li>
         </ul>
 

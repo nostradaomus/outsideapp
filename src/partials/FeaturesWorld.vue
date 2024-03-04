@@ -3,11 +3,11 @@
     <div class="max-w-6xl mx-auto px-4 sm:px-6">
       <div class="flex flex-col md:flex-row md:py-20">
         <div class="mr-10">
-          <div class="max-w-5xl mx-auto pb-8 md:pb-8">
-            <h1 class="flex md:flex-col text-4xl mt-12 md:mt-0 md:text-6xl font-extrabold tracking-tighter leading-none"><span class="mr-2">NOT</span> <span class="mr-2">A</span> <span class="mr-2">NORMAL</span> <span class="mr-2">VC</span></h1>
+          <div class="md:max-w-5xl mx-auto pb-8 md:pb-8">
+            <h1 class="flex justify-center md:flex-col text-3xl mt-12 md:mt-0 md:text-6xl font-extrabold tracking-tighter leading-none"><span class="mr-2">NOT</span> <span class="mr-2">A</span> <span class="mr-2">NORMAL</span> <span class="mr-2">VC</span></h1>
           </div>
-          <figure class="flex max-w-none sm:max-w-xs lg:max-w-none">
-            <img class="grow self-start rounded h-[265px]" src="../images/ethan-banana-run.png" alt="About us 02" />
+          <figure class="flex shrink-0 max-w-none sm:max-w-xs lg:max-w-none mb-8 sm:mb-0">
+            <img class="grow self-start rounded" src="../images/ethan-banana-run.png" width="1474" height="956" alt="Ethan Austin running in a banana suit" />
           </figure>
         </div>
 
@@ -32,7 +32,6 @@
             <p class="font-amatic font-bold text-4xl">OutsideVC Team</p>
           </div>
         </div>
-
       </div>
     </div>
   </section>
