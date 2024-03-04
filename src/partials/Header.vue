@@ -51,7 +51,7 @@
             </li>
             -->
             <li>
-              <a href="https://airtable.com/shr0QVhYjDNRSswIW" class="shadow-sm btn-sm text-white bg-[#4BBCF1] hover:bg-[#FC6C85] ml-3">
+              <a href="https://airtable.com/shr0QVhYjDNRSswIW" target="_none" class="shadow-sm btn-sm text-white bg-[#4BBCF1] hover:bg-[#FC6C85] ml-3">
                 <span>Let's Get Weird</span>
               </a>
             </li>

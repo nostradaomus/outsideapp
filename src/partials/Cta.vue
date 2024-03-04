@@ -16,7 +16,7 @@
 
             <!-- CTA button -->
             <div>
-              <a class="btn shadow-sm text-gray-900 bg-gradient-to-r from-blue-100 to-white" href="#0">Let's Get Weird</a>
+              <a class="btn shadow-sm text-gray-900 bg-gradient-to-r from-blue-100 to-white" href="https://airtable.com/shr0QVhYjDNRSswIW" target="_none">Get Started</a>
             </div>
 
           </div>

@@ -13,7 +13,7 @@
 
         <div class="max-w-xl mx-auto">
           <div class="">
-            <h2 class="text-3xl font-extrabold md:h2 mt-4 md:mt-0 mb-8 md:mb-4 leading-none">Let's be honest, we're not even normal humans..</h2>
+            <h2 class="text-3xl font-extrabold md:h2 mt-4 md:mt-0 mb-8 md:mb-4 leading-none">Let's be honest, we're not even normal humans...</h2>
             <p class="text-lg md:text-[1.36rem] mb-4 text-gray-800">
               Instead, think of us as a friend who is also your investor.  Let’s call it a friendvestor.  Or if you’d prefer using a not-totally-made-up word, we’re the one investor on your cap table you can be real with when you don’t feel like you can talk to anyone else.
             </p>
